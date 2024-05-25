@@ -1,4 +1,4 @@
-## Bem vindos ao meu *PERFIl*
+## Bem vindos ao meu PERFIl 💙
 
 -->
 
@@ -8,7 +8,7 @@
 
 -Estou aprendendo javaScript
 
-##Contatos:
+##Contatos📱
 
  📫Odairnett11@gmail.com
 
